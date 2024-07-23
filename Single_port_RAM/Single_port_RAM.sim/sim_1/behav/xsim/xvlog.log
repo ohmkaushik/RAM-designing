@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digital electronics/Single_port_RAM/single_port_RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module single_port_RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digital electronics/Single_port_RAM/single_port_ram_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module single_port_ram_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digital electronics/Single_port_RAM/Single_port_RAM.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
